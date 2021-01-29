@@ -20,7 +20,7 @@ Responda:
 1. Qual padrão de projeto pode ser utilizado no desenvolvimento de uma solução? 
 
     <p>Ao meu ver, podemos aplicar uns três padõres diferentes, são: Strategy, Template Method e Simple Factory. Entretando, esse último faz mais sentido ser
-    aplicado do quê os outros. Por que segundo a aplicabilidade do padrão:</p>
+    aplicado do que os outros. Por que segundo a aplicabilidade do padrão:</p>
 
     * Sempre que tiver uma lógica definida para a criação de objetos, encapsule eles;
     * Para evitar a duplicação desta lógica em vários locais do projeto;
